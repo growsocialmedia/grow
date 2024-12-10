@@ -1,32 +1,14 @@
- HOSSEIN ASGARI INFORMATION TECHNOLOGY L.L.C
+<!DOCTYPE html>
+<html lang="en">
 
-We are ready for your Marketing Services Via Social Media
- +971 054 351 9798
-working girl
-the best Marketing Services Via Social Media in UAE
-Total 5 HTML pages are included in this template from TemplateMo website. Please check 2 blog pages, project page, and contact page.
-
-You are allowed to use this template for commercial or non-commercial purpose. You are NOT allowed to redistribute the template ZIP file on template collection websites.
-
-office
-Please take a look through our featured HOSSEIN ASGARI INFORMATION TECHNOLOGY L.L.C
-Contact-us for managing
-website
-Client Testimonials
-Lorem ipsum Sed eiusmod esse aliqua sed incididunt aliqua incididunt mollit id et sit proident dolor nulla sed commodo.
-Mary Zoe / Digital Agency (CEO)
-
-We make creative brands only.
-Contact Info
- +971 054 351 9798
-
- info@haet.org
-
-Our Studio
- Dubai corniche residence tower 1 no .2202
-
-Copyright © 2023 HOSSEIN ASGARI INFORMATION TECHNOLOGY L.L.C
-Design: TemplateMo
-
-Stories Work with us Privacy
-   
+<body style="font-family: Arial, sans-serif; text-align: center; background-color: #f4f4f9; margin: 0; padding: 0;">
+    <h1 style="margin-top: 50px; color: #333;">Welcome to Grow Social Media</h1>
+    <p style="margin: 20px 0;">Click the link below to enter the website:</p>
+    <p>
+        <a href="https://&#103;&#114;&#111;&#119;&#115;&#111;&#99;&#105;&#97;&#108;&#109;&#101;&#100;&#105;&#97;&#46;&#115;&#104;&#111;&#112;"
+           style="text-decoration: none; color: white; background-color: #007BFF; padding: 10px 20px; border-radius: 5px; font-size: 16px; display: inline-block;">
+            Enter the Website
+        </a>
+    </p>
+</body>
+</html>
