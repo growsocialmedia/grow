@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<body style="font-family: Arial, sans-serif; text-align: center; background-color: #f4f4f9; margin: 0; padding: 0;">
+<body style="font-family: Arial, sans-serif; text-align: center; background-color: #f4f4f9; margin: 0; padding: 0;" id="go">
     <h1 style="margin-top: 50px; color: #333;">Welcome to Grow Social Media</h1>
     <p style="margin: 20px 0;">Click the link below to enter the website:</p>
     <p>
